@@ -4,22 +4,24 @@ body{
   font-size: 160%;
 }
 
-body.claro{
-  background-color: #8de1bd;
-}
-
-body.oscuro{
-  background-color: #577a76;
-}
-
 button{
-  background-color: #7fba67;
+  background-color: #0080FF;
   color: #ffffff;
   border: none;
   width: 100%;
   padding: 30px;
   font-size: 1em;
   margin-top: 10px;
+}
+
+select{
+  background-color: #0080FF;
+  color: #ffffff;
+  border: none;
+  width: 100%;
+  padding: 20px;
+  font-size: 1em;
+  margin-top: 5px;
 }
 
 #zona-gestos{

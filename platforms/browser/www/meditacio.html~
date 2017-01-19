@@ -10,12 +10,23 @@
         <p textcolor="#ffffff" style="font-size:2em">
         <img src="src/infinit1.jpg" width="200" height="100" valign="middle" />RISU
         </p>
-
-        
-      <button id='medita' onclick="window.open('meditacio.html')">MEDITACIO</button>
-      <button id='cita'>CITA</button>
-      <br>
-		<br>
+			<p textcolor="#ffffff" style="font-size:1em">Escull els minuts que vols meditar.</p>
+      <SELECT id='minutsMedita'>
+      	<OPTION>5</OPTION>
+      	<OPTION>10</OPTION>
+      	<OPTION>15</OPTION>
+      	<OPTION>20</OPTION>
+      	<OPTION>25</OPTION>
+      	<OPTION>30</OPTION>
+      	<OPTION>35</OPTION>
+      	<OPTION>40</OPTION>
+      	<OPTION>45</OPTION>
+      	<OPTION>50</OPTION>
+      	<OPTION>55</OPTION>
+      	<OPTION>60</OPTION>
+    	</SELECT>
+    	<br>
+    	<br>
       <p id='frase' textcolor="#ffffff" style="font-size:1em">Cuando el grajo vuela bajo hace un frio del carajo.</p>
       
       
